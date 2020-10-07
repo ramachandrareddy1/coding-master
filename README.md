@@ -4,6 +4,7 @@ This a basic crud nodejs application for pets.
 
 How to install
 git clone https://github.com/ramachandrareddy1/coding-master
+
 cd coding-master
 
 # Install  dependencies
